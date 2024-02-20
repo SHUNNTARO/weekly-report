@@ -18,5 +18,4 @@
 # 今週の予定：やる予定だったこと・目標
 * Task1
   * Backend Project 1(25h)
-    
-  &rarr;
+    &rarr;
